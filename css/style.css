@@ -1,0 +1,14 @@
+/* my first css file */
+* {
+  margin: 10 10;
+  padding: 0;
+}
+
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  background-color: rgb(129, 163, 191);
+  padding: 30px;
+  color: #333;
+}
